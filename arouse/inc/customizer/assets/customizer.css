@@ -1,0 +1,10 @@
+#accordion-section-arouse_theme_info .accordion-section-title {
+	background: #489498;
+	color: #ffffff;
+	border-left: 4px solid #489498;
+
+}
+
+#accordion-section-arouse_theme_info .accordion-section-title:after {
+	color: #ffffff;
+}
